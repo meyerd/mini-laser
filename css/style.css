@@ -1,6 +1,8 @@
 /* ==== Google font ==== */
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,700,900);
-@import url('http://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700');
+/* @import url(http://fonts.googleapis.com/css?family=Roboto:400,300,700,900);
+@import url('http://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700'); */
+@import url('css/roboto_400_300_700_900.css');
+@import url('css/ek_mukta_400_600_700.css');
 *{
 	padding:0;
 	margin:0;
