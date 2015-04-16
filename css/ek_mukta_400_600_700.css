@@ -2,17 +2,17 @@
   font-family: 'Ek Mukta';
   font-style: normal;
   font-weight: 400;
-  src: local('Ek Mukta'), local('EkMukta-Regular'), url(http://fonts.gstatic.com/s/ekmukta/v7/LkANqRTGviFkcUlniFHuMPesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
+  src: local('Ek Mukta'), local('EkMukta-Regular'), url(LkANqRTGviFkcUlniFHuMPesZW2xOQ-xsNqO47m55DA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Ek Mukta';
   font-style: normal;
   font-weight: 600;
-  src: local('Ek Mukta SemiBold'), local('EkMukta-SemiBold'), url(http://fonts.gstatic.com/s/ekmukta/v7/9EXaIaG9EisTb0ON7WXvdZ0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+  src: local('Ek Mukta SemiBold'), local('EkMukta-SemiBold'), url(9EXaIaG9EisTb0ON7WXvdZ0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Ek Mukta';
   font-style: normal;
   font-weight: 700;
-  src: local('Ek Mukta Bold'), local('EkMukta-Bold'), url(http://fonts.gstatic.com/s/ekmukta/v7/PTj8SjnLMuoZrJLoiRjMXp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
+  src: local('Ek Mukta Bold'), local('EkMukta-Bold'), url(PTj8SjnLMuoZrJLoiRjMXp0EAVxt0G0biEntp43Qt6E.ttf) format('truetype');
 }
